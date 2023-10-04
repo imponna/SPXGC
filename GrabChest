@@ -1,1 +1,416 @@
+function Chest_100()
+    for i,v in pairs(game:GetService("Workspace"):GetChildren()) do
+        if v.Name == "Chest1" and (v.Position-game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude <= 100 then
+            _G.Chest_100 = v
+            return
+            elseif v.Name == "Chest2" and (v.Position-game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude <= 100 then
+            _G.Chest_100 = v
+            return
+            elseif v.Name == "Chest3" and (v.Position-game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude <= 100 then
+            _G.Chest_100 = v
+            return
+        end
+    end
+end
+function Chest_500()
+    for i,v in pairs(game:GetService("Workspace"):GetChildren()) do
+        if v.Name == "Chest1" and (v.Position-game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude <= 500 then
+            _G.Chest_500 = v
+            return
+            elseif v.Name == "Chest2" and (v.Position-game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude <= 500 then
+            _G.Chest_500 = v
+            return
+            elseif v.Name == "Chest3" and (v.Position-game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude <= 500 then
+            _G.Chest_500 = v
+            return
+        end
+    end
+end
+function Chest_1000()
+    for i,v in pairs(game:GetService("Workspace"):GetChildren()) do
+        if v.Name == "Chest1" and (v.Position-game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude <= 1000 then
+            _G.Chest_1000 = v
+            return
+            elseif v.Name == "Chest2" and (v.Position-game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude <= 1000 then
+            _G.Chest_1000 = v
+            return
+            elseif v.Name == "Chest3" and (v.Position-game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude <= 1000 then
+            _G.Chest_1000 = v
+            return
+        end
+    end
+end
+function Chest_1500()
+    for i,v in pairs(game:GetService("Workspace"):GetChildren()) do
+        if v.Name == "Chest1" and (v.Position-game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude <= 1500 then
+            _G.Chest_1500 = v
+            return
+            elseif v.Name == "Chest2" and (v.Position-game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude <= 1500 then
+            _G.Chest_1500 = v
+            return
+            elseif v.Name == "Chest3" and (v.Position-game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude <= 1500 then
+            _G.Chest_1500 = v
+            return
+        end
+    end
+end
+function Chest_2000()
+    for i,v in pairs(game:GetService("Workspace"):GetChildren()) do
+        if v.Name == "Chest1" and (v.Position-game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude <= 2000 then
+            _G.Chest_2000 = v
+            return
+            elseif v.Name == "Chest2" and (v.Position-game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude <= 2000 then
+            _G.Chest_2000 = v
+            return
+            elseif v.Name == "Chest3" and (v.Position-game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude <= 2000 then
+            _G.Chest_2000 = v
+            return
+        end
+    end
+end
+function Chest_2500()
+    for i,v in pairs(game:GetService("Workspace"):GetChildren()) do
+        if v.Name == "Chest1" and (v.Position-game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude <= 2500 then
+            _G.Chest_2500 = v
+            return
+            elseif v.Name == "Chest2" and (v.Position-game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude <= 2500 then
+            _G.Chest_2500 = v
+            return
+            elseif v.Name == "Chest3" and (v.Position-game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude <= 2500 then
+            _G.Chest_2500 = v
+            return
+        end
+    end
+end
+function Chest_3500()
+    for i,v in pairs(game:GetService("Workspace"):GetChildren()) do
+        if v.Name == "Chest1" and (v.Position-game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude <= 3500 then
+            _G.Chest_3500 = v
+            return
+            elseif v.Name == "Chest2" and (v.Position-game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude <= 3500 then
+            _G.Chest_3500 = v
+            return
+            elseif v.Name == "Chest3" and (v.Position-game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude <= 3500 then
+            _G.Chest_3500 = v
+            return
+        end
+    end
+end
+function Chest_4500()
+    for i,v in pairs(game:GetService("Workspace"):GetChildren()) do
+        if v.Name == "Chest1" and (v.Position-game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude <= 4500 then
+            _G.Chest_4500 = v
+            return
+            elseif v.Name == "Chest2" and (v.Position-game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude <= 4500 then
+            _G.Chest_4500 = v
+            return
+            elseif v.Name == "Chest3" and (v.Position-game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude <= 4500 then
+            _G.Chest_4500 = v
+            return
+        end
+    end
+end
+function Chest_5500()
+    for i,v in pairs(game:GetService("Workspace"):GetChildren()) do
+        if v.Name == "Chest1" and (v.Position-game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude <= 5500 then
+            _G.Chest_5500 = v
+            return
+            elseif v.Name == "Chest2" and (v.Position-game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude <= 5500 then
+            _G.Chest_5500 = v
+            return
+            elseif v.Name == "Chest3" and (v.Position-game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude <= 5500 then
+            _G.Chest_5500 = v
+            return
+        end
+    end
+end
+function Chest_6500()
+    for i,v in pairs(game:GetService("Workspace"):GetChildren()) do
+        if v.Name == "Chest1" and (v.Position-game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude <= 6500 then
+            _G.Chest_6500 = v
+            return
+            elseif v.Name == "Chest2" and (v.Position-game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude <= 6500 then
+            _G.Chest_6500 = v
+            return
+            elseif v.Name == "Chest3" and (v.Position-game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude <= 6500 then
+            _G.Chest_6500 = v
+            return
+        end
+    end
+end
+function Chest_7500()
+    for i,v in pairs(game:GetService("Workspace"):GetChildren()) do
+        if v.Name == "Chest1" and (v.Position-game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude <= 7500 then
+            _G.Chest_7500 = v
+            return
+            elseif v.Name == "Chest2" and (v.Position-game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude <= 7500 then
+            _G.Chest_7500 = v
+            return
+            elseif v.Name == "Chest3" and (v.Position-game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude <= 7500 then
+            _G.Chest_7500 = v
+            return
+        end
+    end
+end
+function Chest_9500()
+    for i,v in pairs(game:GetService("Workspace"):GetChildren()) do
+        if v.Name == "Chest1" and (v.Position-game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude <= 9500 then
+            _G.Chest_9500 = v
+            return
+            elseif v.Name == "Chest2" and (v.Position-game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude <= 9500 then
+            _G.Chest_9500 = v
+            return
+            elseif v.Name == "Chest3" and (v.Position-game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude <= 9500 then
+            _G.Chest_9500 = v
+            return
+        end
+    end
+end
+function Chest_10500()
+    for i,v in pairs(game:GetService("Workspace"):GetChildren()) do
+        if v.Name == "Chest1" and (v.Position-game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude <= 10500 then
+            _G.Chest_10500 = v
+            return
+            elseif v.Name == "Chest2" and (v.Position-game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude <= 10500 then
+            _G.Chest_10500 = v
+            return
+            elseif v.Name == "Chest3" and (v.Position-game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude <= 10500 then
+            _G.Chest_10500 = v
+            return
+        end
+    end
+end
+function Chest_12500()
+    for i,v in pairs(game:GetService("Workspace"):GetChildren()) do
+        if v.Name == "Chest1" and (v.Position-game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude <= 12500 then
+            _G.Chest_12500 = v
+            return
+            elseif v.Name == "Chest2" and (v.Position-game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude <= 12500 then
+            _G.Chest_12500 = v
+            return
+            elseif v.Name == "Chest3" and (v.Position-game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude <= 12500 then
+            _G.Chest_12500 = v
+            return
+        end
+    end
+end
+function Chest_15500()
+    for i,v in pairs(game:GetService("Workspace"):GetChildren()) do
+        if v.Name == "Chest1" and (v.Position-game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude <= 15500 then
+            _G.Chest_15500 = v
+            return
+            elseif v.Name == "Chest2" and (v.Position-game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude <= 15500 then
+            _G.Chest_15500 = v
+            return
+            elseif v.Name == "Chest3" and (v.Position-game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude <= 15500 then
+            _G.Chest_15500 = v
+            return
+        end
+    end
+end
+function Chest_17500()
+    for i,v in pairs(game:GetService("Workspace"):GetChildren()) do
+        if v.Name == "Chest1" and (v.Position-game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude <= 17500 then
+            _G.Chest_17500 = v
+            return
+            elseif v.Name == "Chest2" and (v.Position-game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude <= 17500 then
+            _G.Chest_17500 = v
+            return
+            elseif v.Name == "Chest3" and (v.Position-game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude <= 17500 then
+            _G.Chest_17500 = v
+            return
+        end
+    end
+end
+function MChest_100()
+    local mysticIsland = game:GetService("Workspace").Map:FindFirstChild("MysticIsland")
 
+    if mysticIsland then
+        for i, v in pairs(mysticIsland:GetChildren()) do
+            if v.Name:match("Chest%d") and (v.Position - game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude <= 100 then
+                _G.MChest_100 = v
+                return
+            end
+        end
+    end
+end
+function MChest_500()
+    local mysticIsland = game:GetService("Workspace").Map:FindFirstChild("MysticIsland")
+
+    if mysticIsland then
+        for i, v in pairs(mysticIsland:GetChildren()) do
+            if v.Name:match("Chest%d") and (v.Position - game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude <= 500 then
+                _G.MChest_500 = v
+                return
+            end
+        end
+    end
+end
+function MChest_1000()
+    local mysticIsland = game:GetService("Workspace").Map:FindFirstChild("MysticIsland")
+
+    if mysticIsland then
+        for i, v in pairs(mysticIsland:GetChildren()) do
+            if v.Name:match("Chest%d") and (v.Position - game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude <= 1000 then
+                _G.MChest_1000 = v
+                return
+            end
+        end
+    end
+end
+function MChest_1500()
+    local mysticIsland = game:GetService("Workspace").Map:FindFirstChild("MysticIsland")
+
+    if mysticIsland then
+        for i, v in pairs(mysticIsland:GetChildren()) do
+            if v.Name:match("Chest%d") and (v.Position - game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude <= 1500 then
+                _G.MChest_1500 = v
+                return
+            end
+        end
+    end
+end
+function MChest_2000()
+    local mysticIsland = game:GetService("Workspace").Map:FindFirstChild("MysticIsland")
+
+    if mysticIsland then
+        for i, v in pairs(mysticIsland:GetChildren()) do
+            if v.Name:match("Chest%d") and (v.Position - game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude <= 2000 then
+                _G.MChest_2000 = v
+                return
+            end
+        end
+    end
+end
+function MChest_2500()
+    local mysticIsland = game:GetService("Workspace").Map:FindFirstChild("MysticIsland")
+
+    if mysticIsland then
+        for i, v in pairs(mysticIsland:GetChildren()) do
+            if v.Name:match("Chest%d") and (v.Position - game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude <= 2500 then
+                _G.MChest_2500 = v
+                return
+            end
+        end
+    end
+end
+function MChest_3500()
+    local mysticIsland = game:GetService("Workspace").Map:FindFirstChild("MysticIsland")
+
+    if mysticIsland then
+        for i, v in pairs(mysticIsland:GetChildren()) do
+            if v.Name:match("Chest%d") and (v.Position - game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude <= 3500 then
+                _G.MChest_3500 = v
+                return
+            end
+        end
+    end
+end
+function MChest_4500()
+    local mysticIsland = game:GetService("Workspace").Map:FindFirstChild("MysticIsland")
+
+    if mysticIsland then
+        for i, v in pairs(mysticIsland:GetChildren()) do
+            if v.Name:match("Chest%d") and (v.Position - game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude <= 4500 then
+                _G.MChest_4500 = v
+                return
+            end
+        end
+    end
+end
+function MChest_5500()
+    local mysticIsland = game:GetService("Workspace").Map:FindFirstChild("MysticIsland")
+
+    if mysticIsland then
+        for i, v in pairs(mysticIsland:GetChildren()) do
+            if v.Name:match("Chest%d") and (v.Position - game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude <= 5500 then
+                _G.MChest_5500 = v
+                return
+            end
+        end
+    end
+end
+function MChest_6500()
+    local mysticIsland = game:GetService("Workspace").Map:FindFirstChild("MysticIsland")
+
+    if mysticIsland then
+        for i, v in pairs(mysticIsland:GetChildren()) do
+            if v.Name:match("Chest%d") and (v.Position - game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude <= 6500 then
+                _G.MChest_6500 = v
+                return
+            end
+        end
+    end
+end
+function MChest_7500()
+    local mysticIsland = game:GetService("Workspace").Map:FindFirstChild("MysticIsland")
+
+    if mysticIsland then
+        for i, v in pairs(mysticIsland:GetChildren()) do
+            if v.Name:match("Chest%d") and (v.Position - game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude <= 7500 then
+                _G.MChest_7500 = v
+                return
+            end
+        end
+    end
+end
+function MChest_9500()
+    local mysticIsland = game:GetService("Workspace").Map:FindFirstChild("MysticIsland")
+
+    if mysticIsland then
+        for i, v in pairs(mysticIsland:GetChildren()) do
+            if v.Name:match("Chest%d") and (v.Position - game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude <= 9500 then
+                _G.MChest_9500 = v
+                return
+            end
+        end
+    end
+end
+function MChest_10500()
+    local mysticIsland = game:GetService("Workspace").Map:FindFirstChild("MysticIsland")
+
+    if mysticIsland then
+        for i, v in pairs(mysticIsland:GetChildren()) do
+            if v.Name:match("Chest%d") and (v.Position - game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude <= 10500 then
+                _G.MChest_10500 = v
+                return
+            end
+        end
+    end
+end
+function MChest_12500()
+    local mysticIsland = game:GetService("Workspace").Map:FindFirstChild("MysticIsland")
+
+    if mysticIsland then
+        for i, v in pairs(mysticIsland:GetChildren()) do
+            if v.Name:match("Chest%d") and (v.Position - game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude <= 12500 then
+                _G.MChest_12500 = v
+                return
+            end
+        end
+    end
+end
+function MChest_15500()
+    local mysticIsland = game:GetService("Workspace").Map:FindFirstChild("MysticIsland")
+
+    if mysticIsland then
+        for i, v in pairs(mysticIsland:GetChildren()) do
+            if v.Name:match("Chest%d") and (v.Position - game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude <= 15500 then
+                _G.MChest_15500 = v
+                return
+            end
+        end
+    end
+end
+function MChest_17500()
+    local mysticIsland = game:GetService("Workspace").Map:FindFirstChild("MysticIsland")
+
+    if mysticIsland then
+        for i, v in pairs(mysticIsland:GetChildren()) do
+            if v.Name:match("Chest%d") and (v.Position - game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude <= 17500 then
+                _G.MChest_17500 = v
+                return
+            end
+        end
+    end
+end
