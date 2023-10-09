@@ -227,7 +227,7 @@ function MChest_100()
 
     if mysticIsland then
         for i, v in pairs(mysticIsland:GetChildren()) do
-            if v.Name:match("Chest%d") and (v.Position - game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude <= 100 then
+            if v.Name:match("FragChest") and (v.Position - game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude <= 100 then
                 _G.MChest_100 = v
                 return
             end
@@ -239,7 +239,7 @@ function MChest_500()
 
     if mysticIsland then
         for i, v in pairs(mysticIsland:GetChildren()) do
-            if v.Name:match("Chest%d") and (v.Position - game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude <= 500 then
+            if v.Name:match("FragChest") and (v.Position - game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude <= 500 then
                 _G.MChest_500 = v
                 return
             end
@@ -251,7 +251,7 @@ function MChest_1000()
 
     if mysticIsland then
         for i, v in pairs(mysticIsland:GetChildren()) do
-            if v.Name:match("Chest%d") and (v.Position - game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude <= 1000 then
+            if v.Name:match("FragChest") and (v.Position - game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude <= 1000 then
                 _G.MChest_1000 = v
                 return
             end
@@ -263,7 +263,7 @@ function MChest_1500()
 
     if mysticIsland then
         for i, v in pairs(mysticIsland:GetChildren()) do
-            if v.Name:match("Chest%d") and (v.Position - game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude <= 1500 then
+            if v.Name:match("FragChest") and (v.Position - game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude <= 1500 then
                 _G.MChest_1500 = v
                 return
             end
@@ -275,7 +275,7 @@ function MChest_2000()
 
     if mysticIsland then
         for i, v in pairs(mysticIsland:GetChildren()) do
-            if v.Name:match("Chest%d") and (v.Position - game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude <= 2000 then
+            if v.Name:match("FragChest") and (v.Position - game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude <= 2000 then
                 _G.MChest_2000 = v
                 return
             end
@@ -287,7 +287,7 @@ function MChest_2500()
 
     if mysticIsland then
         for i, v in pairs(mysticIsland:GetChildren()) do
-            if v.Name:match("Chest%d") and (v.Position - game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude <= 2500 then
+            if v.Name:match("FragChest") and (v.Position - game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude <= 2500 then
                 _G.MChest_2500 = v
                 return
             end
@@ -299,7 +299,7 @@ function MChest_3500()
 
     if mysticIsland then
         for i, v in pairs(mysticIsland:GetChildren()) do
-            if v.Name:match("Chest%d") and (v.Position - game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude <= 3500 then
+            if v.Name:match("FragChest") and (v.Position - game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude <= 3500 then
                 _G.MChest_3500 = v
                 return
             end
@@ -311,7 +311,7 @@ function MChest_4500()
 
     if mysticIsland then
         for i, v in pairs(mysticIsland:GetChildren()) do
-            if v.Name:match("Chest%d") and (v.Position - game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude <= 4500 then
+            if v.Name:match("FragChest") and (v.Position - game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude <= 4500 then
                 _G.MChest_4500 = v
                 return
             end
@@ -323,7 +323,7 @@ function MChest_5500()
 
     if mysticIsland then
         for i, v in pairs(mysticIsland:GetChildren()) do
-            if v.Name:match("Chest%d") and (v.Position - game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude <= 5500 then
+            if v.Name:match("FragChest") and (v.Position - game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude <= 5500 then
                 _G.MChest_5500 = v
                 return
             end
@@ -335,7 +335,7 @@ function MChest_6500()
 
     if mysticIsland then
         for i, v in pairs(mysticIsland:GetChildren()) do
-            if v.Name:match("Chest%d") and (v.Position - game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude <= 6500 then
+            if v.Name:match("FragChest") and (v.Position - game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude <= 6500 then
                 _G.MChest_6500 = v
                 return
             end
@@ -347,7 +347,7 @@ function MChest_7500()
 
     if mysticIsland then
         for i, v in pairs(mysticIsland:GetChildren()) do
-            if v.Name:match("Chest%d") and (v.Position - game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude <= 7500 then
+            if v.Name:match("FragChest") and (v.Position - game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude <= 7500 then
                 _G.MChest_7500 = v
                 return
             end
@@ -359,7 +359,7 @@ function MChest_9500()
 
     if mysticIsland then
         for i, v in pairs(mysticIsland:GetChildren()) do
-            if v.Name:match("Chest%d") and (v.Position - game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude <= 9500 then
+            if v.Name:match("FragChest") and (v.Position - game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude <= 9500 then
                 _G.MChest_9500 = v
                 return
             end
@@ -371,7 +371,7 @@ function MChest_10500()
 
     if mysticIsland then
         for i, v in pairs(mysticIsland:GetChildren()) do
-            if v.Name:match("Chest%d") and (v.Position - game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude <= 10500 then
+            if v.Name:match("FragChest") and (v.Position - game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude <= 10500 then
                 _G.MChest_10500 = v
                 return
             end
@@ -383,7 +383,7 @@ function MChest_12500()
 
     if mysticIsland then
         for i, v in pairs(mysticIsland:GetChildren()) do
-            if v.Name:match("Chest%d") and (v.Position - game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude <= 12500 then
+            if v.Name:match("FragChest") and (v.Position - game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude <= 12500 then
                 _G.MChest_12500 = v
                 return
             end
@@ -395,7 +395,7 @@ function MChest_15500()
 
     if mysticIsland then
         for i, v in pairs(mysticIsland:GetChildren()) do
-            if v.Name:match("Chest%d") and (v.Position - game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude <= 15500 then
+            if v.Name:match("FragChest") and (v.Position - game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude <= 15500 then
                 _G.MChest_15500 = v
                 return
             end
@@ -407,7 +407,7 @@ function MChest_17500()
 
     if mysticIsland then
         for i, v in pairs(mysticIsland:GetChildren()) do
-            if v.Name:match("Chest%d") and (v.Position - game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude <= 17500 then
+            if v.Name:match("FragChest") and (v.Position - game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude <= 17500 then
                 _G.MChest_17500 = v
                 return
             end
